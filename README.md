@@ -68,7 +68,7 @@ MindBloom vise à offrir une assistance émotionnelle de proximité, tout en res
 
 
 
- 
+ ⚠️  Modifier l’URL ngrok dans le  fichier text_input_page.dart
 
  
  
