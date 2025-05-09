@@ -57,10 +57,14 @@ pip install -r requirements.txt
  ###  Démarrage local de LLaMA 3
  ollama run llama3
 
- ###  Configuration de l’URL de l’API (Flutter)
- Uri.parse('http://10.0.2.2:11434/api/chat'), // pour Android Emulator
+### Configurer l'URL de l'API (avec ngrok)
+#### 1.lancer ngrok
+Utilise ngrok pour exposer ton serveur local à Internet. Exécute cette commande :
+#### 2.Obtenir l'URL ngrok :
+Une fois ngrok lancé, tu obtiendras une URL comme http://<ngrok_subdomain>.ngrok.io. Copie cette URL.
 
- 📱 Utilise http://192.168.X.X:11434 pour un vrai appareil
+#### 3.Mettre à jour l'URL de l'API dans Flutter :
+Ouvre ton fichier text_input_page.dart et remplace l'URL locale par l'URL générée par ngrok.
 
  
 ## Objectif
