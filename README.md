@@ -43,11 +43,7 @@ FL Chart – Pour les graphiques émotionnels
 python -m venv monenv
 
 #### 2. Activer l’environnement virtuel
-##### ▶️ Sous Windows :
-monenv\Scripts\activate
 
-##### ▶️ Sous macOS / Linux :
-source monenv/bin/activate
 
 #### 3. Installer les dépendances du projet
 pip install -r requirements.txt
