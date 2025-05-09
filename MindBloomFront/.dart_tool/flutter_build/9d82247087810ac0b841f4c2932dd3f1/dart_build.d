@@ -1,0 +1,1 @@
+ C:\\MindBloom\\MindBloomFront\\.dart_tool\\flutter_build\\9d82247087810ac0b841f4c2932dd3f1\\dart_build_result.json: 
