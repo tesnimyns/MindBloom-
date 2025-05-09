@@ -3,7 +3,7 @@
 MindBloom est une application mobile Flutter qui aide les utilisateurs à suivre et améliorer leur bien-être émotionnel. Elle combine des fonctionnalités de détection d'humeur, un chatbot empathique basé sur un modèle LLaMA 3 local (via Ollama), et une visualisation des scores émotionnels grâce à Supabase.
 
  ## Fonctionnalités principales
-   ###Chatbot émotionnel (LLaMA 3)
+   ### Chatbot émotionnel (LLaMA 3)
 Un assistant basé sur LLaMA 3 localement exécuté via Ollama, offrant des réponses bienveillantes et personnalisées.
 
 ### Analyse de texte émotionnel
