@@ -9,11 +9,11 @@ Un assistant basé sur LLaMA 3 localement exécuté via Ollama, offrant des rép
 ### Analyse de texte émotionnel
 L’utilisateur peut écrire ses pensées et obtenir une évaluation de son état émotionnel (score, niveau de dépression).
 
-### Analyse de selfie & voix (à compléter)
+### Analyse de selfie & voix 
 Intégration prévue de la reconnaissance émotionnelle à partir d’image ou d’audio.
 
 ### Visualisation des scores émotionnels
-Les scores sont stockés dans Supabase et affichés dans des graphiques en pourcentage.
+Les scores sont stockés dans Supabase et affichés dans des graphiques en pourcentage. 
 
 ### Authentification Supabase
 Gestion des utilisateurs et des données de manière sécurisée.
@@ -27,7 +27,7 @@ Supabase – Backend, base de données, auth
 Ollama + LLaMA 3 – Chatbot local
 
 FastAPI  – Pour analyse externe du texte
-Flas
+Flask   _ Pour analyse des images
 
 FL Chart – Pour les graphiques émotionnels
 
